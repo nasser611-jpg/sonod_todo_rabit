@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "sonod_todo_task_rabbit-main",
+            "cwd": "sonod_todo_task_rabbit-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sonod_todo_task_rabbit-main (profile mode)",
+            "cwd": "sonod_todo_task_rabbit-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sonod_todo_task_rabbit-main (release mode)",
+            "cwd": "sonod_todo_task_rabbit-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
